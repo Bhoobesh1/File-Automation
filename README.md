@@ -66,4 +66,8 @@ Safe to run multiple times without affecting already organized files.
 
 ---
 
+# After File Organization
+<img width="952" height="389" alt="image" src="https://github.com/user-attachments/assets/d0778d0c-41ab-482e-afb9-b9ba4248d7e1" />
+
+
 
